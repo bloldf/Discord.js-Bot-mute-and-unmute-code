@@ -1,2 +1,6 @@
 # Discord.js-Bot-mute-and-unmute-code
-Discord.js Bot
+
+This is for Discord Bot This 2 codes mute and unmutes people. Example  .mute @user#0000 2h or .unmute user#0000 to unmute the player.
+
+Fixing some thing soon linke Reason and other shit :)
+
